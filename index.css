@@ -1,0 +1,80 @@
+body{
+background-color: #d9c3a5;
+}
+div{                
+    display: flex;
+    position: relative;
+    left: 547;
+    
+}
+/* -------------------- */
+#A{
+    width: 100px;
+}
+/* -------------------- */
+#B{
+    width: 100px;
+}
+/* -------------------- */
+#C{
+    width: 100px;
+}
+/* -------------------- */
+#E{
+    width: 100px;
+}
+/* -------------------- */
+#F{
+    width: 100px;
+}
+/* -------------------- */
+#G{
+    width: 100px;
+}
+/* -------------------- */
+/* -------TEXTPART----- */
+/* -------------------- */
+#hassan{
+    position: relative;
+    top: 85px;
+    right: 75px;
+}
+/* -------------------- */
+#ezz{
+    position: relative;
+    top: 85px;
+    right: 83px;
+}
+/* -------------------- */
+#haithem{
+    position: relative;
+    top: 85px;
+    right: 80px;
+}
+/* -------------------- */
+#amrou{
+    position: relative;
+    top: 85px;
+    right: 73px;
+}
+/* -------------------- */
+#nader{
+    position: relative;
+    top: 85px;
+    right: 70px;
+}
+/* -------------------- */
+#qusai{
+    position: relative;
+    top: 85px;
+    right: 70px;
+}
+#hr{
+    position: relative;
+    top: 30;
+}
+#Thanks{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
